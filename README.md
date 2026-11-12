@@ -2,6 +2,8 @@
 
 Welcome to my personal GitHub account! Here lies all my personal coding projects.
 
+I am currently focused on writing AI-Assisted web applications using different frameworks, languages, libraries, databases, and more!
+
 <!--
 **DeclanWJ/DeclanWJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
