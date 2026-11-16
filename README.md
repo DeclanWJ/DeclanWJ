@@ -6,7 +6,7 @@ I am currently focused on writing AI-Assisted web applications using different f
 
 **Projects Information**
 
-🤖 <ins>AI-Final-Project :</ins>
+🤖 [AI-Final-Project :]([url](https://github.com/DeclanWJ/AI-Final-Project))
  * This repo is from my Artificial Intelligence final from my senior year of University.
  * Within this repo lies a reinforcement learning agent developed in OSBot, that lives within the Old School RuneScape video game domain.
  * We utilized q-learning, to reward and punish the agent based on simple tasks like cutting down trees and getting experience/gold.
